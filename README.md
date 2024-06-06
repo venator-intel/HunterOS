@@ -1,4 +1,4 @@
-# Venator - The CTI Analyst's Workstation
+# Venator - The Intel Analyst's Workstation
 
 ![Venator Logo](https://github.com/K3ySton3-ZA/Venator/blob/main/theme/venator-banner.jpg)
 
