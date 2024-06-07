@@ -1,6 +1,6 @@
 # Venator - The Intel Analyst's Workstation
 
-![Venator Logo](https://github.com/K3ySton3-ZA/Venator/blob/main/theme/venator-banner.jpg)
+![Venator Logo](https://github.com/venator-project/venator-project.github.io/blob/main/static/images/venator-banner.jpg)
 
 ## ***Coming Soon...***
 
