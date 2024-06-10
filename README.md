@@ -1,10 +1,10 @@
-# Venator - The Intel Analyst's Workstation
+# Venator OS - The Intel Analyst's Workstation
 
 ![Venator Logo](https://github.com/venator-project/venator-project.github.io/blob/main/static/images/venator-banner.jpg)
 
 ## ***Coming Soon...***
 
-Welcome to Venator, a purpose-built Debian-based distribution designed for cyber intelligence collection & analysis. Venator integrates a comprehensive set of popular free and open-source tools focused on intelligence collection & analysis (OSINT, CYBINT, SOCMINT, etc.), malware analysis, and security research. 
+Welcome to Venato OSr, a purpose-built Debian-based distribution designed for cyber intelligence collection & analysis. Venator integrates a comprehensive set of popular free and open-source tools focused on intelligence collection & analysis (OSINT, CYBINT, SOCMINT, etc.), malware analysis, and security research. 
 
 Whether you are an intelligence analyst, cyber sleuth, or tactical deep-web diver, Venator provides a powerful platform to enhance your intelligence collection & analysis capabilities.
 
