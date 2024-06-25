@@ -1,4 +1,4 @@
-# Venator OS - The Intel Analyst's Workstation
+# Venator Linux - The Intel Analyst's Workstation
 
 ![Venator Logo](https://github.com/venator-project/venator-project.github.io/blob/main/static/images/venator-banner.jpg)
 
