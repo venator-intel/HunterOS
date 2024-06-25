@@ -4,7 +4,7 @@
 
 ## ***Coming Soon...***
 
-Welcome to Venato OSr, a purpose-built Debian-based distribution designed for cyber intelligence collection & analysis. Venator integrates a comprehensive set of popular free and open-source tools focused on intelligence collection & analysis (OSINT, CYBINT, SOCMINT, etc.), malware analysis, and security research. 
+Welcome to Venato Linux, a purpose-built Debian-based distribution designed for cyber intelligence collection & analysis. Venator Linux integrates a comprehensive set of popular free and open-source tools focused on intelligence collection & analysis (OSINT, CYBINT, SOCMINT, etc.), malware analysis, and security research. 
 
 Whether you are an intelligence analyst, cyber sleuth, or tactical deep-web diver, Venator provides a powerful platform to enhance your intelligence collection & analysis capabilities.
 
