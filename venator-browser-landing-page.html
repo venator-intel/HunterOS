@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venator</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Tera&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('background.jpg');
+            background-size: cover;
+            background-position: center;
+            color: #fff;
+        }
+        #header {
+            text-align: left;
+            padding: 20px;
+        }
+        #header h1 {
+            margin: 0;
+            font-size: 36px;
+            font-family: 'Lexend Tera', sans-serif;
+            text-transform: uppercase;
+        }
+        #links {
+            float: right;
+        }
+        #links a {
+            color: #fff;
+            text-decoration: none;
+            margin-left: 10px;
+            text-transform: uppercase;
+        }
+        #search-container {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, 50%);
+            text-align: center;
+        }
+        #search-bar {
+            padding: 8px;
+            width: 250px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            margin-bottom: 20px;
+            font-size: 14px;
+        }
+        #search-button {
+            padding: 8px 20px;
+            border-radius: 5px;
+            background-color: #fff;
+            color: #333;
+            border: none;
+            cursor: pointer;
+            font-size: 14px;
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h1>Venator</h1>
+        <div id="links">
+            <a href="#">TOOLS</a> |
+            <a href="#">DOCUMENTATION</a> |
+            <a href="#">RESOURCES</a> |
+            <a href="#">BLOG</a>
+        </div>
+    </div>
+    <div id="search-container">
+        <input type="text" id="search-bar" placeholder="Enter your search query...">
+        <button id="search-button">Search</button>
+    </div>
+
+    <script>
+        document.getElementById("search-button").addEventListener("click", function() {
+            searchGoogle();
+        });
+
+        document.getElementById("search-bar").addEventListener("keydown", function(event) {
+            if (event.key === "Enter") {
+                searchGoogle();
+            }
+        });
+
+        function searchGoogle() {
+            var query = document.getElementById("search-bar").value;
+            if (query.trim() !== "") {
+                var searchUrl = "https://www.google.com/search?q=" + encodeURIComponent(query);
+                window.location.href = searchUrl;
+            }
+        }
+    </script>
+</body>
+</html>
