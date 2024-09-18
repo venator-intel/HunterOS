@@ -1,6 +1,6 @@
 # HunterOS - The Intel Analyst's Workstation
 
-![Venator Logo](https://github.com/venator-project/venator-project.github.io/blob/main/static/images/venator-banner.jpg)
+![Venator Logo](https://github.com/venator-intel/venator-project.github.io/blob/main/static/images/hunteros-banner.jpg)
 
 ## ***Coming Soon...***
 
